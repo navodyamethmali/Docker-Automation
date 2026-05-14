@@ -26,5 +26,5 @@ jobs:
           context: ./
           push: true
           tags: |
-                navodyamethmali/docker-automation:${{ env.SHORT_SHA }}
-                navodyamethmali/docker-automation:latest
+                navodya123456/docker-automation:${{ env.SHORT_SHA }}
+                navodya123456/docker-automation:latest
